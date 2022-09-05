@@ -4,6 +4,5 @@ void main(){
 
 void test() {
   final name = 'Javier';
-  if(name == 'Javier')
-    print("is equal");
+  print((name == 'Javier') ? 'Is equal' : 'Is not equal' );
 }
