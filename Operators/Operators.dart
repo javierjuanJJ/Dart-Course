@@ -3,9 +3,7 @@ void main(){
 }
 
 void test() {
-  var age = 23;
-  final halfOfAge = age / 2;
-  final doubleOfAge = age * 2;
-  final ageMinusOne = --age;
-  print(ageMinusOne.toString());
+  final name = 'JJ';
+  final nameOfTimes = name * 20;
+  print(nameOfTimes);
 }
