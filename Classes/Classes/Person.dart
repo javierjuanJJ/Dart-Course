@@ -1,4 +1,4 @@
-class Person {
+abstract class Person {
   String? _firstName;
   String? _middleName;
   String? _lastName;
