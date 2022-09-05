@@ -3,6 +3,10 @@ String getFullName(String firstName, String lastName){
   return "$firstName $lastName";
 }
 
-void main(){
+void printMyName(){
   print(getFullName("javier", "juan"));
+}
+
+void main(){
+  printMyName();
 }
