@@ -7,4 +7,5 @@ void test() {
   print(listOfNames);
   var listOfNames2 = listOfNames[3];
   print(listOfNames2);
+  print(listOfNames.length);
 }
