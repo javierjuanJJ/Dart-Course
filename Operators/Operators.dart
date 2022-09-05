@@ -6,5 +6,5 @@ void test() {
   final age = 23;
   final halfOfAge = age / 2;
   final doubleOfAge = age * 2;
-  print(age.toString());
+  print(doubleOfAge.toString());
 }
