@@ -10,6 +10,17 @@ class Student extends Person{
     _course = value;
   }
 
+
+  @override
+  bool operator ==(Object other) =>
+      identical(this, other) ||
+      other is Student &&
+          runtimeType == other.runtimeType &&
+          _course == other._course;
+
+  @override
+  int get hashCode => _course.hashCode;
+
   @override
   String toString() {
     return 'Person{_firstName: $firstName, _middleName: $middleName, _lastName: $lastName, _age: $age, _course: $course}';
