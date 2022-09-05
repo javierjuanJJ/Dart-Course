@@ -7,9 +7,6 @@ void main() {
   List<String?>? names = ['1','2','3','4',null];
   names = null;
 
-  String? name1a = null;
-  String? name2 = '';
-  String? name3a = '';
-  final String? firstNameNotNull = name1a ?? name2 ?? name3a;
-  print(firstNameNotNull);
+  name ??= 'aaa';
+  print(name);
 }
