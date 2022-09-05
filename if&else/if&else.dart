@@ -4,5 +4,13 @@ void main(){
 
 void test() {
   final name = 'Javier';
-  print((name == 'Javier') ? 'Is equal' : 'Is not equal' );
+  if (name == 'Javier'){
+    print("is $name");
+  }
+  else if (name != 'Bar'){
+    print("is not $name");
+  }
+  else{
+    print("is unknown name.");
+  }
 }
