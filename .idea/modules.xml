@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/FreeCodeCamp.iml" filepath="$PROJECT_DIR$/FreeCodeCamp.iml" />
       <module fileurl="file://$PROJECT_DIR$/Functions/Functions.iml" filepath="$PROJECT_DIR$/Functions/Functions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction/Introduction.iml" filepath="$PROJECT_DIR$/Introduction/Introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
       <module fileurl="file://$PROJECT_DIR$/if&amp;else/if&amp;else.iml" filepath="$PROJECT_DIR$/if&amp;else/if&amp;else.iml" />
     </modules>
