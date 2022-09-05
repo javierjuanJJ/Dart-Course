@@ -1,7 +1,5 @@
-String getFullName(String firstName, String lastName){
-  //return firstName + " " + lastName;
-  return "$firstName $lastName";
-}
+String getFullName(String firstName, String lastName) => "$firstName $lastName";
+
 
 void printMyName(){
   print(getFullName("javier", "juan"));
