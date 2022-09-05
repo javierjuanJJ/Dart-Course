@@ -11,4 +11,6 @@ void test() {
   print(person['name']);
   person['name'] = '23';
   print(person['name']);
+  person['lastname'] = '23';
+  print(person);
 }
