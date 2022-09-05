@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Constants/Constants.iml" filepath="$PROJECT_DIR$/Constants/Constants.iml" />
       <module fileurl="file://$PROJECT_DIR$/FreeCodeCamp.iml" filepath="$PROJECT_DIR$/FreeCodeCamp.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction/Introduction.iml" filepath="$PROJECT_DIR$/Introduction/Introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
     </modules>
   </component>
 </project>
