@@ -5,6 +5,8 @@ extension Run on Student {
   String run() {
     return 'Student $firstName is running';
   }
+
+  String? get fullName => '$firstName $middleName $lastName';
 }
 
 void main(){
@@ -14,4 +16,5 @@ void main(){
   person.course= 2;
   print(person);
   print(person.run());
+  print(person.fullName);
 }
